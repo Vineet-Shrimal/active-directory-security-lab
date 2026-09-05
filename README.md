@@ -1,4 +1,4 @@
-# Active Directory Attack Simulation & Detection Lab
+# Active Directory Security Lab — Authentication Monitoring & Threat Detection 
  
 A hands-on home lab simulating a small corporate Active Directory environment, built to practice attack simulation, log collection, and detection engineering using Splunk. This project covers standing up a domain controller, joining a client machine, simulating a real-world brute-force attack, executing MITRE ATT&CK-mapped techniques with Atomic Red Team, and building detections for both in Splunk.
  
